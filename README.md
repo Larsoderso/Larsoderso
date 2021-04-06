@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi 👋,
+I'm Lars, a fullstack developer from cologne, germany. I currently work on building new mobility 
+solutions @ Arrive Mobility.
+
 
 <!--
 **Larsoderso/Larsoderso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
