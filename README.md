@@ -1,5 +1,5 @@
 Hi 👋,
-I'm Lars, a fullstack developer from cologne, germany.
+I'm Lars, a fullstack developer from cologne, Germany. <br>
 I currently work on building new mobility solutions @ Arrive Mobility.
 
 
